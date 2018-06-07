@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+
+<html>
+<head>
+	<title>Navigation Bar Here </title>
+</head>
+
+<body>
+
+	<div id="nav">
+	<div id="nav_wrapper">
+
+		</div>
+	</div>
+
+</body>
+
+</html>
